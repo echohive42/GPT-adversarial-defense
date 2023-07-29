@@ -27,9 +27,7 @@ Then, enter your text when prompted. The script will generate a response and per
 
 ## Additional Resources
 - **YouTube Channel:** Learn how to build AI-powered apps with GPT on [EchoHive's YouTube Channel](https://www.youtube.com/@echohive).
-- **Website:** Search over videos and find code download links at [EchoHive Live](https://www.echohive.live/).
+- **Website:** Search over all "building with GPT" videos and find code download links at [EchoHive Live](https://www.echohive.live/).
 - **LLM Paper Summarizer:** Summarizes every new paper related to "large language models" from arXiv automatically every hour. Visit [LLM Papers](https://llmpapers.up.railway.app/).
-- **Support:** If you want to support the efforts, you can do so through [Patreon](https://www.patreon.com/echohive42).
+- **Support:** If you want to support MY efforts, you can do so through [Patreon](https://www.patreon.com/echohive42).
 
-## Contributions
-Feel free to open issues or submit pull requests if you want to enhance this project. Your insights and contributions are welcome!
