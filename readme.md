@@ -3,7 +3,7 @@
 
 1️⃣ It uses functions calling  attempting to generate the first 30 words of a  regular response then returns "True" or "False" for objectionable content based on the initial words of the response. 
 
-2️⃣ regular reSponse is generated simultaneously with the objectionable response detection but only printed if there is no objectionable response
+2️⃣ regular response is generated simultaneously with the objectionable response detection but only printed if there is no objectionable response
 
  🚀 It uses concurrency to manage both generations simultaneously
 
