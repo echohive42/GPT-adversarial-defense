@@ -16,6 +16,7 @@ user_input = None
 """
 Alternative approach would be to check for objectionable response with the entire regular response at the end. But this will consume a lot of tokens each time and will add additional sequential wait time.
 we can also check with the beginning wowrds of the response after generatiomn is complete but then that would take additional time for a sequential api call.
+This current approach will fail if the detection api call fails to generate objectionable content with the adversarial user prompt. we are assuming a successful adversarial prompt will generate objectionable content more often than not there fore often triggering True
 """
 
 # Messages which includes a descriptive system messsage which might alter the check_objectionable_response function's response. Because we want gpt to respond as it normally would, we might want to use no system message as to not influence its response. 
