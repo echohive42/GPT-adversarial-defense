@@ -15,6 +15,7 @@ user_input = None
 
 """
 Alternative approach would be to check for objectionable response with the entire regular response at the end. But this will consume a lot of tokens each time and will add additional sequential wait time.
+we can also check with the beginning wowrds of the response after generatiomn is complete but then that would take additional time for a sequential api call.
 """
 
 # Messages which includes a descriptive system messsage which might alter the check_objectionable_response function's response. Because we want gpt to respond as it normally would, we might want to use no system message as to not influence its response. 
