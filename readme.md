@@ -1,7 +1,7 @@
 
 # GPT Real-Time Defense Against Adversarial Prompts
 
-1️⃣ It uses functions calling  attempting to generate the first 30 words of a  regular response then returns "True" or "False" for objectionable content based on the initial words of the response.
+1️⃣ It uses functions calling  attempting to generate the first 30 words of a  regular response then returns "True" or "False" for objectionable content based on the initial words of the response. \n
 2️⃣ regular reSponse is generated simultaneously with the objectionable response detection but only printed if there is no objectionable response
 
  🚀 It uses concurrency to manage both generations simultaneously
